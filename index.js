@@ -1,3 +1,4 @@
+console.log("JS FILE LOADED");
 (function ($) {
   $.fn.fireworks = function (options) {
     // set the defaults
